@@ -6,4 +6,3 @@
 <h3>B.O.D - Nekotina (Discord Bot)</h3>
 <h3>HELPER - Chocolat (Discord Bot)</h3>
 <h3>HELPER - MagiBot (Discord Bot)</h3>
-<br>
