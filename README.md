@@ -3,8 +3,8 @@
 </p>
 <br>
 <h2>Experiencia</h2>
-<h3>Owner - YumiBot </h3>
+<h3>OWNER - YumiBot </h3>
 <h3>B.O.D - NEKOTINA</h3>
-<h3>Helper - Chocolat </h3>
-<h3>Helper - MagiBot </h3>
+<h3>HELPER - Chocolat </h3>
+<h3>HELPER - MagiBot </h3>
 <br>
