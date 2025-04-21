@@ -4,7 +4,7 @@
 <br>
 <h2>Experiencia</h2>
 <h3>OWNER - YumiBot (Discord Bot)</h3>
-<h3>B.O.D - NEKOTINA (Discord Bot)</h3>
+<h3>B.O.D - Nekotina (Discord Bot)</h3>
 <h3>HELPER - Chocolat (Discord Bot)</h3>
 <h3>HELPER - MagiBot (Discord Bot)</h3>
 <br>
