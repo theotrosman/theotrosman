@@ -9,3 +9,4 @@
 <h3>HELPER - MagiBot (Discord Bot)</h3>
 
 
+![ggg](https://github.com/user-attachments/assets/2a628702-af9d-4957-9cfb-6371ae6337cf)
