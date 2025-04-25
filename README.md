@@ -7,6 +7,5 @@
 <h3>B.O.D - Nekotina (Discord Bot)</h3>
 <h3>HELPER - Chocolat (Discord Bot)</h3>
 <h3>HELPER - MagiBot (Discord Bot)</h3>
-![image](https://github.com/user-attachments/assets/f9e7ed2c-f591-47e7-98ec-c826af703e48)
 
 
