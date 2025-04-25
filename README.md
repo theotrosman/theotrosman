@@ -8,3 +8,4 @@
 <h3>HELPER - Chocolat (Discord Bot)</h3>
 <h3>HELPER - MagiBot (Discord Bot)</h3>
 
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
