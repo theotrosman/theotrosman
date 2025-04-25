@@ -7,6 +7,4 @@
 <h3>B.O.D - Nekotina (Discord Bot)</h3>
 <h3>HELPER - Chocolat (Discord Bot)</h3>
 <h3>HELPER - MagiBot (Discord Bot)</h3>
-
-
-![ggg](https://github.com/user-attachments/assets/2a628702-af9d-4957-9cfb-6371ae6337cf)
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/33b39f8d-d26a-4720-8a0b-e45af547fb1c)
