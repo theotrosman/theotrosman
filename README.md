@@ -1,1 +1,1 @@
-![chinese-dragons-fighting-in-the-clouds-new-year-of-the-wooden-dragon-banner-with-gold-antique-pattern-asian-style-bright-horizontal-banner-vintage-font-for-poster-flyer-vector](https://github.com/user-attachments/assets/d3051530-9447-4c56-b810-ab0a1a8bcf31)
+![70fc0ad10b9adb5e86495060f053f6f1](https://github.com/user-attachments/assets/01a81bac-b49c-4418-8aaa-486abaede136)
