@@ -6,4 +6,4 @@
 ### 🎏 Stack:
 - 🎐 **Back-End**
 - 🎐 **Front-End**
-- 🎐 **Siempre hacia delante**
+- 🎐 **Siempre hacia adelante**
