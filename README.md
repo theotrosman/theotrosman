@@ -6,4 +6,4 @@
 ### 🎏 Stack:
 - 🎐 **Back-End**
 - 🎐 **Front-End**
-- 🎐 **Transformando ideas en código**
+- 🎐 **Siempre hacia delante**
