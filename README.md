@@ -2,11 +2,9 @@
 # 🎎 ¡Hola! Soy **Theo Trosman**
 ## 🧧 Estudiante de **ORT Yatay** — Especialidad: **Informática**
 
-<p align="center"><b>Visitantes</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BTheotrosman%7D/count.svg" alt="visitor badge"/></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Theotrosman&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Theotrosman&theme=chartreuse-light"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Theotrosman&count_private=true&show_icons=true&&theme=chartreuse-light&include_all_commits=true" width="400"></p> 
+<p ><img src="https://github-readme-streak-stats.herokuapp.com?user=Theotrosman&theme=chartreuse-light"></p>
 
 ### 🎏 Stack:
 
