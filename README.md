@@ -3,7 +3,6 @@
 <h2 align="center">🧧 Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Theotrosman&theme=chartreuse-light"></p>
 
 ### 🎏 Stack:
 
