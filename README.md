@@ -1,4 +1,5 @@
-![pngimg com - sakura_PNG54](https://github.com/user-attachments/assets/6672dbd4-38be-490d-91ab-16f08e6ac563)
+![flower_ascii_style](https://github.com/user-attachments/assets/743c92d9-cc3a-47cc-9785-45785f718e43)
+
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
