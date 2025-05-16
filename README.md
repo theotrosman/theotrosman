@@ -22,3 +22,6 @@ Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)
+
