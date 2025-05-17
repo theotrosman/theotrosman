@@ -13,8 +13,11 @@ Backend Development
 
 Frontend Development
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Flexbox](https://img.shields.io/badge/Flexbox-Layout-%23F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive%20Design-Adaptable-%2300C49A.svg?style=for-the-badge)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Typography-%230074D9.svg?style=for-the-badge&logo=google&logoColor=white)
 
 Tools
 
