@@ -16,6 +16,16 @@
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-blueviolet?style=for-the-badge)
+![LINQ](https://img.shields.io/badge/LINQ-Query%20Magic-blue?style=for-the-badge)
+![ViewBag](https://img.shields.io/badge/ViewBag-Dynamic%20Data-lightgrey?style=for-the-badge)
+![Routing](https://img.shields.io/badge/Routing-Custom%20Paths-orange?style=for-the-badge)
+![POO](https://img.shields.io/badge/POO-OOP%20Logic-darkgreen?style=for-the-badge)
+![Static Classes](https://img.shields.io/badge/Static%20Classes-Game%20State-blue?style=for-the-badge)
+![Validation](https://img.shields.io/badge/Validation-User%20Input-critical?style=for-the-badge)
+![Game Logic](https://img.shields.io/badge/Game%20Logic-Custom%20Rules-ff69b4?style=for-the-badge)
+
+---
+
 ### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
