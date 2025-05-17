@@ -13,8 +13,9 @@
 
 ### 🖥️ Backend Development
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-blueviolet?style=for-the-badge)
 ### 🎨 Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -28,17 +29,21 @@
 
 ---
 
-## ⚙️ Tools
+## 🛠️ Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-667881.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Whimsical](https://img.shields.io/badge/Whimsical-6f42c1.svg?style=for-the-badge&logo=whimsical&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4.svg?style=for-the-badge&logo=google-docs&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-Learning-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)
 
 ---
 
