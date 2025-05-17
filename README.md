@@ -18,6 +18,9 @@ Frontend Development
 ![Flexbox](https://img.shields.io/badge/Flexbox-Layout-%23F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive%20Design-Adaptable-%2300C49A.svg?style=for-the-badge)
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Typography-%230074D9.svg?style=for-the-badge&logo=google&logoColor=white)
+![SVG Icons](https://img.shields.io/badge/SVG%20Icons-Scalable%20Graphics-orange?style=for-the-badge)
+![PNG Assets](https://img.shields.io/badge/PNG%20Images-High%20Quality-blue?style=for-the-badge)
+![Video Background](https://img.shields.io/badge/Video%20Background-Full%20Screen-red?style=for-the-badge)
 
 Tools
 
