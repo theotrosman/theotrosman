@@ -23,5 +23,7 @@ Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10a37f.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)
+![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D.svg?style=for-the-badge&logo=w3schools&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Whimsical](https://img.shields.io/badge/Whimsical-6f42c1.svg?style=for-the-badge&logo=whimsical&logoColor=white)
 
