@@ -43,5 +43,5 @@
 ---
 
 <p align="center">
-✨ Siempre aprendiendo y creando cosas con onda ✨
+Combino lógica con estilo para que cada línea de código tenga personalidad.
 </p>
