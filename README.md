@@ -23,6 +23,7 @@
 [![Static Classes](https://img.shields.io/badge/Static%20Classes-Game%20State-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/static-classes-and-static-class-members)
 [![Validation](https://img.shields.io/badge/Validation-User%20Input-critical?style=for-the-badge)](https://learn.microsoft.com/en-us/aspnet/core/mvc/models/validation)
 [![Game Logic](https://img.shields.io/badge/Game%20Logic-Custom%20Rules-ff69b4?style=for-the-badge)](https://en.wikipedia.org/wiki/Game_logic)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
