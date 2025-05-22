@@ -3,12 +3,10 @@
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="450" style="max-width: 100%;" />
-</p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+</div>
 
 ## 🧠 Stack
 
