@@ -9,8 +9,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="450" style="max-width: 100%;" />
 </p>
----
-
 ## 🧠 Stack
 
 ### 🖥️ Backend Development
