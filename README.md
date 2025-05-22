@@ -7,9 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light">
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/040d7e20f4131896397c8738b0dba5fbdab9799ad1985428e0c4b54317e0672a/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d74755573756172696f267468656d653d6a6f6c6c7926646174655f666f726d61743d4d2532306a25354225324325323059253544" width="450" data-canonical-src="https://github-readme-streak-stats.herokuapp.com?user=tuUsuario&amp;theme=jolly&amp;date_format=M%20j%5B%2C%20Y%5D" style="max-width: 100%;"><img >
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="450" style="max-width: 100%;" />
 </p>
-
 ---
 
 ## 🧠 Stack
