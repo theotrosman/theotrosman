@@ -36,7 +36,7 @@
 [![Google Fonts](https://img.shields.io/badge/Google%20Fonts-Typography-%230074D9.svg?style=for-the-badge&logo=google&logoColor=white)](https://fonts.google.com/)
 [![SVG Icons](https://img.shields.io/badge/SVG%20Icons-Scalable%20Graphics-orange?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/SVG)
 [![PNG Assets](https://img.shields.io/badge/PNG%20Images-High%20Quality-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Portable_Network_Graphics)
-[![Video Background](https://img.shields.io/badge/Video%20Background-Full%20Screen-red?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
+[![Video Background](https://img.shields.io/badge/Video%20Background-Full%20Screen-red?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) 
 
 ---
 
