@@ -11,7 +11,6 @@
        style="width: 420px; height: 220px;" />
 </div>
 
-
 ## 🧠 Stack
 
 ### 🖥️ Backend Development
