@@ -4,9 +4,13 @@
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light" 
+       style="width: 420px; height: 220px;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" 
+       style="width: 420px; height: 220px;" />
 </div>
+
 
 ## 🧠 Stack
 
