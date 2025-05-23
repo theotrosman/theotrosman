@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theotrosman&layout=compact&hide=TSQL&theme=chartreuse-light" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=light&date_format=M%20j%5B%2C%20Y%5D" width="355" />
 </div>
-
+ 
 ## 🧠 Stack
 
 ### 🖥️ Backend Development
