@@ -11,9 +11,9 @@
 
 ---
 
-## 🧠 Stack
+### Stack
 
-### 🖥️ Backend Development
+### Backend Development
 
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)](...)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-black?style=for-the-badge&logo=dotnet&logoColor=white)](...)
@@ -29,7 +29,7 @@
 
 ---
 
-### 🎨 Frontend Development
+### Frontend Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](...)
 [![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)](...)
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Tools
+### Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)](...)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](...)
