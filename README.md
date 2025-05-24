@@ -10,9 +10,6 @@
 </div>
 
 ---
-
-### Stack
-
 ### Backend Development
 
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)](...)
@@ -28,7 +25,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)](...)
 
 ---
-
 ### Frontend Development
 
 [![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)](...)
@@ -41,7 +37,6 @@
 [![Video Background](https://img.shields.io/badge/Video%20Background-black?style=for-the-badge&logo=video&logoColor=white)](...)
 
 ---
-
 ### Tools
 
 [![Visual Studio Code](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)](...)
