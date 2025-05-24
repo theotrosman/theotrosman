@@ -6,8 +6,8 @@
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" width="280" />
-  <img src="https://github-readme-stats.vercel.app/api?username=theotrosman&show_icons=true&theme=graywhite" width="280"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theotrosman&show_icons=true&theme=graywhite" width="323"/>
 </div>
 
 ---
