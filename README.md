@@ -1,5 +1,6 @@
-![45dcee9868e75a8062b9529ada96f263](https://github.com/user-attachments/assets/bc245fe7-5f3d-48c2-a4d5-9fdcd619ea2f)
-
+<p align="center">
+  <img src="./assets/45dcee9868e75a8062b9529ada96f263.gif" alt="ascii banner" style="width: 100%; max-width: 800px; height: auto;" />
+</p>
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
