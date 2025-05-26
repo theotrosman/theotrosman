@@ -4,13 +4,9 @@
 
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
-
-<pre align="center" style="font-family: monospace; font-size: 16px;">
-          へ   ♡   ╱|、
-     ૮  -   ՛ )      (`   -  7
-       /   ⁻  ៸|       |、⁻〵
- 乀 (ˍ, ل ل        じしˍ,)ノ
-</pre>
+<p align="center">
+  <img src="gatosascii.png" width="300" alt="ascii cat" />
+</p>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" width="360" />
