@@ -62,5 +62,5 @@
 ---
 
 <p align="center">
-Combino lógica con estilo para que cada línea de código tenga personalidad.
+Combining Logic with style so every Code line achieves its own personality
 </p>
