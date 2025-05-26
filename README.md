@@ -5,6 +5,13 @@
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
+<pre align="center">
+          へ   ♡   ╱|、
+     ૮  -   ՛ )      (`   -  7
+       /   ⁻  ៸|       |、⁻〵
+ 乀 (ˍ, ل ل      じしˍ,)ノ
+</pre>
+
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D" width="360" />
   <img src="https://github-readme-stats.vercel.app/api?username=theotrosman&show_icons=true&theme=graywhite" width="340"/>
@@ -41,8 +48,6 @@
 [![PNG Assets](https://img.shields.io/badge/PNG-black?style=for-the-badge&logo=file-image&logoColor=white)](https://github.com/theotrosman/TP_01A-4lD)
 [![Video Backgrounds](https://img.shields.io/badge/Video%20Background-black?style=for-the-badge&logo=video&logoColor=white)](https://github.com/theotrosman/PROMED)
 
-
-
 ---
 ### Tools
 
@@ -57,7 +62,6 @@
 [![W3Schools](https://img.shields.io/badge/W3Schools-black?style=for-the-badge&logo=w3schools&logoColor=white)]()
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white)]()
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-black?style=for-the-badge&logo=openai&logoColor=white)]()
-
 
 ---
 
