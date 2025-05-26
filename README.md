@@ -5,11 +5,11 @@
 <h1 align="center">¡Hola! Soy Theo Trosman</h1>
 <h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
 
-<pre align="center">
+<pre align="center" style="font-family: monospace; font-size: 16px;">
           へ   ♡   ╱|、
      ૮  -   ՛ )      (`   -  7
        /   ⁻  ៸|       |、⁻〵
- 乀 (ˍ, ل ل      じしˍ,)ノ
+ 乀 (ˍ, ل ل        じしˍ,)ノ
 </pre>
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
