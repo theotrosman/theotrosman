@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=theotrosman&show_icons=true&theme=graywhite" width="340"/>
 </div>
 
----
+--- 
 ### Backend Development
 
 [![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
