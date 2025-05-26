@@ -2,8 +2,8 @@
   <img src="45dcee9868e75a8062b9529ada96f263.gif" width="700" height="400" alt="ascii banner"/>
 </p>
 
-<h1 align="center">¡Hola! Soy Theo Trosman</h1>
-<h2 align="center">Estudiante de ORT Yatay — Especialidad: Informática </h2>
+<h1 align="center">Hi, I׳m Theo Trosman</h1>
+<h2 align="center">Studying Full-Stack Development at ORT Yatay Argentina</h2>
 <p align="center">
   <img src="gatosascii.png" width="300" alt="ascii cat" />
 </p>
