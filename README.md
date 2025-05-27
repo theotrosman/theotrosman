@@ -29,6 +29,17 @@
 [![Validation](https://img.shields.io/badge/Validation-black?style=for-the-badge&logo=check&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
 [![Game Logic](https://img.shields.io/badge/Game%20Logic-black?style=for-the-badge&logo=joystick&logoColor=white)](https://github.com/theotrosman/ESCAPE-C137)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/theotrosman/ESCAPE-C137)
+[![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=cloud&logoColor=white)](https://github.com/theotrosman/TP_04-4lD)
+[![Session Management](https://img.shields.io/badge/Session%20Management-black?style=for-the-badge&logo=session&logoColor=white)](https://github.com/theotrosman/ESCAPE-C137)
+[![Error Handling](https://img.shields.io/badge/Error%20Handling-black?style=for-the-badge&logo=bug&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
+[![Authentication](https://img.shields.io/badge/Authentication-black?style=for-the-badge&logo=unlock&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
+[![Dependency Injection](https://img.shields.io/badge/Dependency%20Injection-black?style=for-the-badge&logo=syringe&logoColor=white)](https://github.com/theotrosman/TP_04-4lD)
+[![JSON Serialization](https://img.shields.io/badge/JSON%20Serialization-black?style=for-the-badge&logo=json&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
+[![Middleware](https://img.shields.io/badge/Middleware-black?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/theotrosman/TP_04-4lD)
+[![Unit Testing](https://img.shields.io/badge/Unit%20Testing-black?style=for-the-badge&logo=testtube&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)](https://github.com/theotrosman)
+[![Debugging](https://img.shields.io/badge/Debugging-black?style=for-the-badge&logo=bugatti&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
+
 
 ---
 ### Frontend Development
