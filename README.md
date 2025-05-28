@@ -10,7 +10,6 @@
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 </div>
-
 --- 
 ### Backend Development
 
