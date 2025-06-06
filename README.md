@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
-<h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2>
+<h2 align="center">Full-Stack Student at ORT pitoYatay Argentina</h2>
 <p align="center">
   <img src="gatosascii.png" width="200" alt="ascii cat" />
 </p>
