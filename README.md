@@ -1,11 +1,18 @@
 <p align="center">
-  <img src="fight-club.gif" width="700" height="400" alt="ascii banner"/>
+  <img src="fight-club.gif" width="700" height="400" alt="Theo's banner"/>
 </p>
 
-<h1 align="center">Hi, I׳m Theo Trosman</h1>
-<h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
+<h1 align="center">Theo Trosman</h1>
+<h2 align="center">Full-Stack Developer in Training · ORT Yatay · Buenos Aires, Argentina</h2>
 
----  
+---
+
+<p align="center">
+  Passionate about building immersive web experiences through clean code, thoughtful design, and creative logic.
+  <br>
+  Focused on C#, ASP.NET Core, JavaScript, and responsive frontend development.
+</p>
+
 ### Backend Development
 
 [![C#](https://img.shields.io/badge/C%23-0f1c2e?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/theotrosman/TP_05-4lD)
