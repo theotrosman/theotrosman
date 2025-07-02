@@ -4,12 +4,6 @@
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
-<p align="center">
-  <img src="gatosascii.png" width="200" alt="ascii cat" />
-</p>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-</div>
 
 ---  
 ### Backend Development
