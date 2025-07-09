@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="fight-club.gif" width="800" height="460" alt="ascii banner"/>
+  <img src="https://github.com/user-attachments/assets/48115123-c67e-49ce-8685-3c1b0181d4e7" width="800" height="460" alt="ascii banner"/>
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
