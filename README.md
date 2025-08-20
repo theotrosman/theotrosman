@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="c991e9eb7c467b34294be002b2493037.gif" width="800" height="650" alt="ascii banner"/>
+  <img src="c991e9eb7c467b34294be002b2493037.gif" width="900" height="650" alt="ascii banner"/>
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
