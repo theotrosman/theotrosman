@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1928717e-1ca8-4751-bd0d-681b9c121e61" width="800" height="460" alt="ascii banner"/>
+  <img src="c991e9eb7c467b34294be002b2493037.gif" width="800" height="650" alt="ascii banner"/>
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
