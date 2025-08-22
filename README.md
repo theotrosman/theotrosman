@@ -53,9 +53,6 @@
 [![Media Queries](https://img.shields.io/badge/Media%20Queries-1C1C1E?style=for-the-badge&logo=css3&logoColor=CFCFD1)]() 
 [![Accessibility](https://img.shields.io/badge/Accessibility-1C1C1E?style=for-the-badge&logo=accessibility&logoColor=CFCFD1)]() 
 [![User Flows](https://img.shields.io/badge/User%20Flows-1C1C1E?style=for-the-badge&logo=user&logoColor=CFCFD1)]() 
-[![Custom Fonts](https://img.shields.io/badge/Custom%20Fonts-1C1C1E?style=for-the-badge&logo=font&logoColor=CFCFD]()
-
-
 
 ---
 
