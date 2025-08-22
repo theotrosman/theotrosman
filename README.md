@@ -5,8 +5,6 @@
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
 
---- 
-
 [![C#](https://img.shields.io/badge/C%23-1C1C1E?style=for-the-badge&logo=csharp&logoColor=CFCFD1)]() 
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-1C1C1E?style=for-the-badge&logo=dotnet&logoColor=CFCFD1)]() 
 [![MVC Pattern](https://img.shields.io/badge/MVC-1C1C1E?style=for-the-badge&logo=visualstudiocode&logoColor=CFCFD1)]() 
