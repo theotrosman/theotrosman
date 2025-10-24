@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="6d6fc9db9e642b1bb95b985cc63a7edc.gif" width="900" height="650" alt="ascii banner"/>
+<img width="423" height="282" alt="mascotas-bienvenida" src="https://github.com/user-attachments/assets/46174251-2551-49f5-9d1f-083011866447" />
 </p>
-
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
 
