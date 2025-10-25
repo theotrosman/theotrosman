@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="408" alt="ChatGPT_Image_25_oct_2025__18_06_41-removebg-preview" src="https://github.com/user-attachments/assets/811c805c-13d9-490d-ba0e-6803c5a280a9" />
+  ![la-ultima-cena-leonardo-da-vinci](https://github.com/user-attachments/assets/4c4c6e91-8279-4609-a504-4c12479649c5)
 </p>
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
