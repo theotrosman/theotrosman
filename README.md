@@ -1,5 +1,5 @@
 <p align="center">
-![la-ultima-cena-leonardo-da-vinci](https://github.com/user-attachments/assets/526ac3c6-4825-4f6d-950e-5fbcd958ed05)
+[la-ultima-cena-leonardo-da-vinci](https://github.com/theotrosman/theotrosman/blob/main/images.jfif)
 
 </p>
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
