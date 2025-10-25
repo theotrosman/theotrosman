@@ -1,5 +1,6 @@
 <p align="center">
-  ![la-ultima-cena-leonardo-da-vinci](https://github.com/user-attachments/assets/4c4c6e91-8279-4609-a504-4c12479649c5)
+![la-ultima-cena-leonardo-da-vinci](https://github.com/user-attachments/assets/526ac3c6-4825-4f6d-950e-5fbcd958ed05)
+
 </p>
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
