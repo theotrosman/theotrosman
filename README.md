@@ -1,6 +1,5 @@
 <p align="center">
-[la-ultima-cena-leonardo-da-vinci](https://github.com/theotrosman/theotrosman/blob/main/images.jfif)
-
+  <img src="https://raw.githubusercontent.com/theotrosman/theotrosman/main/images.jfif" alt="La Última Cena - Leonardo da Vinci" width="600"/>
 </p>
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
