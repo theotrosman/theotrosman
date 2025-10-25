@@ -1,5 +1,5 @@
 <p align="center">
-<img width="423" height="282" alt="mascotas-bienvenida" src="ChatGPT Image 25 oct 2025, 18_02_51" src="https://github.com/user-attachments/assets/d96573cc-a7cd-4765-ac5d-61571135b489" />
+  <img width="612" height="408" alt="ChatGPT_Image_25_oct_2025__18_06_41-removebg-preview" src="https://github.com/user-attachments/assets/811c805c-13d9-490d-ba0e-6803c5a280a9" />
 </p>
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
