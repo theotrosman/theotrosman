@@ -1,4 +1,5 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/2809aa84-3110-4942-acd3-480628e0776b" alt="CG" width="1000" </p>
+![fa745a00a4f6a2a64def5970e331139e]()
+<p align="center"> <img src="https://github.com/user-attachments/assets/1b58126b-5267-41f0-ba84-de52d818ef89" width="1000" </p>
 
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
