@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf6f27ae-7441-41fc-adf5-ff82
-1b99e1a9" 
+  <img src="https://github.com/user-attachments/assets/2809aa84-3110-4942-acd3-480628e0776b" 
        alt="CG" 
        width="700"
 </p>
+
+
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
 
