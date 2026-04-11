@@ -1,5 +1,8 @@
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/342f6628-7b9a-4657-a38e-208614ef41b0" width="1000" ></p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/342f6628-7b9a-4657-a38e-208614ef41b0" width="1000" autoplay
+    loop
+    muted
+    playsinline></p>
 
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
