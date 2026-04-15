@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fd101f5c-1f0b-4ad8-9f71-61215368c1d8" width="1000">
+  <img src="images/images (2).jfif" width="1000"/>
 </p>
+
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
 <h2 align="center">Full-Stack Student at ORT Yatay Argentina</h2> 
 
