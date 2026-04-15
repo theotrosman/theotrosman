@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image3.jfif" width="500"/>
+  <img src="image3.jfif" width="1920"/>
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
