@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="image4.avif" width="740"/>
+ <img width="740" height="260" alt="007b744bf90d364f92834bf9238e1efc" src="https://github.com/user-attachments/assets/70aedcc3-111d-4bd1-94b9-b8f15acde345" />
+
 </p>
 
 <h1 align="center">Hi, I׳m Theo Trosman</h1>
