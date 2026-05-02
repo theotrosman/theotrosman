@@ -73,9 +73,7 @@ Interested in performance, architecture, and user experience, with a strong emph
 
 ## Activity
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000&ring=000000&fire=444444"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000"/> </p>
 
 ---
 
