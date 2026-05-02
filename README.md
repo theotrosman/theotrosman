@@ -64,8 +64,8 @@ Interested in performance, architecture, and user experience, with a strong emph
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theotrosman&show_icons=true&theme=dark&hide_border=true&bg_color=000000" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theotrosman&layout=compact&theme=dark&hide_border=true&bg_color=000000" height="150"/>
+  <img src="https://github-readme-stats-git-main.vercel.app/api?username=theotrosman&show_icons=true&theme=dark&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats-git-main.vercel.app/api/top-langs/?username=theotrosman&layout=compact&theme=dark&hide_border=true&bg_color=000000"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@ Interested in performance, architecture, and user experience, with a strong emph
 ## Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000"/>
+  <img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000&ring=000000&fire=000000&currStreakLabel=ffffff"/>
 </p>
 
 ---
