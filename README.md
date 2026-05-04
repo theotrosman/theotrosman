@@ -1,29 +1,42 @@
 <p align="center">
-<img width="1000" height="500" alt="8d2a5c5ed0f894c99024dba3fcb43c2e" src="https://github.com/user-attachments/assets/7e68c516-0327-416b-9d2b-02ed5bdfd24c" />
-
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/7e68c516-0327-416b-9d2b-02ed5bdfd24c" />
 </p>
 
 <h1 align="center">Theo Trosman</h1>
 <h3 align="center">Full-Stack Developer Student @ ORT Argentina</h3>
 
 <p align="center">
-Building clean, scalable and aesthetic web experiences
+  Building performant, scalable and visually polished web applications
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
 <p align="center">
-Full-Stack development student focused on building solid backend systems and clean, modern frontends.<br>
-Interested in performance, architecture, and user experience, with a strong emphasis on writing maintainable and scalable code.
+Focused Full-Stack Developer student with a strong backend mindset.<br><br>
+
+I enjoy designing systems that are not only functional, but also <b>efficient, maintainable and scalable</b>.<br>
+On the frontend, I aim for <b>clean, intuitive and aesthetically pleasing interfaces</b>.<br><br>
+
+Currently sharpening my skills in <b>architecture, performance optimization</b> and <b>best development practices</b>.
 </p>
 
 ---
 
-## Tech Stack
+## 🧠 Mindset
 
-### Backend & Core
+<p align="center">
+💡 I don't just write code — I design solutions<br>
+⚙️ I prioritize structure, readability and scalability<br>
+🎯 Every detail matters: performance, UX and maintainability
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+### ⚙️ Backend & Core
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -36,7 +49,7 @@ Interested in performance, architecture, and user experience, with a strong emph
 
 ---
 
-### Frontend
+### 🎨 Frontend
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,35 +61,64 @@ Interested in performance, architecture, and user experience, with a strong emph
 
 ---
 
-### Concepts & Architecture
+### 🧩 Architecture & Practices
 <p align="center">
 <img src="https://img.shields.io/badge/MVC-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dependency_Injection-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Authentication-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Session-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Error_Handling-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Unit_Testing-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Error_Handling-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-### UI / UX
+### 🎯 UI / UX Focus
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Accessibility-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Dark_Mode-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Animations-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microinteractions-000000?style=for-the-badge"/>
 </p>
 
 ---
 
-## Activity
+## 📈 GitHub Activity
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theotrosman&theme=black-ice&hide_border=true&background=000000"/>
+</p>
+
+---
+
+## 🔥 What I'm Working On
+
+<p align="center">
+📌 Improving backend architecture patterns<br>
+📌 Building full-stack projects with real-world structure<br>
+📌 Learning advanced .NET ecosystem practices
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+Open to collaborations, projects or just talking about tech 👇
+</p>
+
+<p align="center">
+<a href="mailto:yourmail@example.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/yourprofile">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <p align="center">
-Combining logic with style so every line of code has its own personality
+<i>"Good code is not just functional — it's intentional."</i>
 </p>
