@@ -118,7 +118,7 @@
   <a href="https://github.com/theotrosman">
     <img src="https://img.shields.io/badge/-GitHub-0B0B0C?style=for-the-badge&logo=github&logoColor=F5F1E8&labelColor=0B0B0C" />
   </a>
-  <a href="mailto:theotrosman@example.com">
+  <a href="mailto:theotrosman@gmail.com">
     <img src="https://img.shields.io/badge/-Email-C26B4D?style=for-the-badge&logo=gmail&logoColor=F5F1E8&labelColor=C26B4D" />
   </a>
   <a href="https://linkedin.com/in/theotrosman">
