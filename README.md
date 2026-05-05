@@ -84,22 +84,7 @@
     </td>
   </tr>
 </table>
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theotrosman&bg_color=2D0A1A&color=F2B8C6&line=7D2E50&point=C4728A&hide_border=true&area=true&area_color=7D2E50&title_color=F2B8C6" width="95%" alt="Activity graph" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0A1A,40:C4728A,60:C4728A,100:2D0A1A&height=1&section=header" width="80%" />
-</p>
-<br>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=F2B8C6&center=true&vCenter=true&width=220&height=34&lines=//+trophies" alt="// trophies" />
-</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=theotrosman&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0A1A,40:C4728A,60:C4728A,100:2D0A1A&height=1&section=header" width="80%" />
 </p>
