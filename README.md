@@ -64,9 +64,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0A1A,40:C4728A,60:C4728A,100:2D0A1A&height=1&section=header" width="80%" />
 </p>
 <br>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=F2B8C6&center=true&vCenter=true&width=180&height=34&lines=//+stats" alt="// stats" />
-</h2>
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="middle" align="right" width="155">
@@ -76,11 +73,7 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theotrosman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=2D0A1A&title_color=F2B8C6&icon_color=C4728A&text_color=F2B8C6&ring_color=7D2E50" height="170" alt="GitHub stats" />
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&hide_border=true&background=2D0A1A&stroke=7D2E50&ring=C4728A&fire=F2B8C6&currStreakLabel=F2B8C6&sideLabels=F2B8C6&dates=C4728A&sideNums=F2B8C6&currStreakNum=F2B8C6&dayNums=F2B8C6" height="170" alt="GitHub streak" />
-      <br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theotrosman&layout=compact&langs_count=8&hide_border=true&bg_color=2D0A1A&title_color=F2B8C6&text_color=F2B8C6" height="145" alt="Top languages" />
-    </td>
-    <td valign="middle" align="left" width="155">
-      <img src="https://github.com/theotrosman/theotrosman/blob/main/assets/sakura-leaves-mirrored.gif?raw=true" width="145" />
+     
     </td>
   </tr>
 </table>
