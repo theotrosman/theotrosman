@@ -1,9 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2600&pause=900&color=B084F5&center=true&vCenter=true&width=720&height=48&lines=Theo+Trosman;Full-Stack+Developer+Student;Code+with+personality." alt="Theo Trosman" />
-</p>
+
 
 <p align="center">
   <img width="770" height="400" src="https://github.com/user-attachments/assets/bb322f35-ba64-494b-9437-c898cedec938" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2600&pause=900&color=B084F5&center=true&vCenter=true&width=720&height=48&lines=Theo+Trosman;Full-Stack+Developer+Student;Code+with+personality." alt="Theo Trosman" />
 </p>
 
 <p align="center">
