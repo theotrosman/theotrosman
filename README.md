@@ -74,6 +74,5 @@
       <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&hide_border=true&background=2D0A1A&stroke=7D2E50&ring=C4728A&fire=F2B8C6&currStreakLabel=F2B8C6&sideLabels=F2B8C6&dates=C4728A&sideNums=F2B8C6&currStreakNum=F2B8C6&dayNums=F2B8C6" height="170" alt="GitHub streak" />
      
-    </td>
   </tr>
 </table>
