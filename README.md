@@ -39,21 +39,42 @@
   <sub><b>backend</b></sub><br/>
   <img src="https://img.shields.io/badge/C%23-2D0A1A?style=for-the-badge&logo=csharp&logoColor=F2B8C6" />
   <img src="https://img.shields.io/badge/.NET-7D2E50?style=for-the-badge&logo=dotnet&logoColor=F2B8C6" />
-  <img src="https://img.shields.io/badge/ASP.NET-2D0A1A?style=for-the-badge&logo=dotnet&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-2D0A1A?style=for-the-badge&logo=dotnet&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Node.js-7D2E50?style=for-the-badge&logo=node.js&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Express-C4728A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-2D0A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL_Server-7D2E50?style=for-the-badge&logo=microsoftsqlserver&logoColor=F2B8C6" />
 </p>
 
 <p align="center">
   <sub><b>frontend</b></sub><br/>
-  <img src="https://img.shields.io/badge/HTML-C4728A?style=for-the-badge&logo=html5&logoColor=2D0A1A" />
-  <img src="https://img.shields.io/badge/CSS-2D0A1A?style=for-the-badge&logo=css3&logoColor=F2B8C6" />
-  <img src="https://img.shields.io/badge/JS-7D2E50?style=for-the-badge&logo=javascript&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/HTML5-C4728A?style=for-the-badge&logo=html5&logoColor=2D0A1A" />
+  <img src="https://img.shields.io/badge/CSS3-2D0A1A?style=for-the-badge&logo=css3&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/JavaScript-7D2E50?style=for-the-badge&logo=javascript&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/TypeScript-C4728A?style=for-the-badge&logo=typescript&logoColor=2D0A1A" />
+  <img src="https://img.shields.io/badge/React-2D0A1A?style=for-the-badge&logo=react&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Next.js-7D2E50?style=for-the-badge&logo=next.js&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Tailwind-2D0A1A?style=for-the-badge&logo=tailwindcss&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Sass-C4728A?style=for-the-badge&logo=sass&logoColor=2D0A1A" />
 </p>
 
 <p align="center">
-  <sub><b>tools</b></sub><br/>
-  <img src="https://img.shields.io/badge/GIT-2D0A1A?style=for-the-badge&logo=git&logoColor=F2B8C6" />
-  <img src="https://img.shields.io/badge/GITHUB-7D2E50?style=for-the-badge&logo=github&logoColor=F2B8C6" />
-  <img src="https://img.shields.io/badge/VSCODE-2D0A1A?style=for-the-badge&logo=visualstudiocode&logoColor=F2B8C6" />
+  <sub><b>tools & devops</b></sub><br/>
+  <img src="https://img.shields.io/badge/Git-2D0A1A?style=for-the-badge&logo=git&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/GitHub-7D2E50?style=for-the-badge&logo=github&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-C4728A?style=for-the-badge&logo=githubactions&logoColor=2D0A1A" />
+  <img src="https://img.shields.io/badge/Vercel-2D0A1A?style=for-the-badge&logo=vercel&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Postman-7D2E50?style=for-the-badge&logo=postman&logoColor=F2B8C6" />
+  <img src="https://img.shields.io/badge/Figma-C4728A?style=for-the-badge&logo=figma&logoColor=2D0A1A" />
+</p>
+
+<p align="center">
+  <sub><b>concepts</b></sub><br/>
+  <img src="https://img.shields.io/badge/OOP-2D0A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Code-7D2E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOLID-C4728A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design_Patterns-2D0A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RESTful-7D2E50?style=for-the-badge" />
 </p>
 
 ---
