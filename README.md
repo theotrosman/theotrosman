@@ -87,24 +87,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=99999&color=B084F5&center=true&vCenter=true&width=180&height=36&lines=//+stats" alt="// stats" />
 </h2>
 
-<!-- STATS CON SAKURA A LOS COSTADOS -->
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle" align="center" width="140">
-      <img src="https://github.com/user-attachments/assets/01f63a48-b6e0-49a7-835b-6ba88af7aa8b" width="130" />
-    </td>
-    <td valign="middle" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theotrosman&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=1A0D2E&title_color=B084F5&icon_color=B084F5&text_color=E8D5FF&ring_color=7B3FF2" height="180" alt="GitHub stats" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=theotrosman&theme=radical&hide_border=true&background=1A0D2E&stroke=7B3FF2&ring=B084F5&fire=B084F5&currStreakLabel=B084F5&sideLabels=E8D5FF&dates=B084F5&sideNums=E8D5FF&currStreakNum=E8D5FF&dayNums=E8D5FF" height="180" alt="GitHub streak" />
-      <br/>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theotrosman&layout=compact&langs_count=8&hide_border=true&bg_color=1A0D2E&title_color=B084F5&text_color=E8D5FF" height="150" alt="Top languages" />
-    </td>
-    <td valign="middle" align="center" width="140">
-      <img src="https://github.com/user-attachments/assets/01f63a48-b6e0-49a7-835b-6ba88af7aa8b" width="130" style="transform:scaleX(-1)" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theotrosman&bg_color=1A0D2E&color=B084F5&line=7B3FF2&point=E8D5FF&hide_border=true&area=true&area_color=7B3FF2&title_color=B084F5" width="98%" alt="Activity graph" />
