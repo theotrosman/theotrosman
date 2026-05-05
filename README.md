@@ -84,24 +84,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D0A1A,40:C4728A,60:C4728A,100:2D0A1A&height=1&section=header" width="80%" />
-</p>
-<br>
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=99999&color=F2B8C6&center=true&vCenter=true&width=200&height=34&lines=//+contact" alt="// contact" />
-</h2>
-<p align="center">
-  <a href="https://github.com/theotrosman">
-    <img src="https://img.shields.io/badge/-GitHub-2D0A1A?style=for-the-badge&logo=github&logoColor=F2B8C6&labelColor=2D0A1A" />
-  </a>
-  &nbsp;
-  <a href="mailto:theotrosman@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-C4728A?style=for-the-badge&logo=gmail&logoColor=2D0A1A&labelColor=C4728A" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/theotrosman">
-    <img src="https://img.shields.io/badge/-LinkedIn-7D2E50?style=for-the-badge&logo=linkedin&logoColor=F2B8C6&labelColor=7D2E50" />
-  </a>
-</p>
