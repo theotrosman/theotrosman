@@ -146,10 +146,6 @@
 <br>
 
 <p align="center">
-  <i><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=9000&pause=9000&color=B084F5&center=true&vCenter=true&width=700&height=24&lines=Combining+logic+with+style+—+so+every+line+of+code+has+its+own+personality." alt="footer tagline" /></i>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0D2E,50:7B3FF2,100:B084F5&height=80&section=footer" width="100%" />
 </p>
 
