@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="720" src="https://github.com/user-attachments/assets/bb322f35-ba64-494b-9437-c898cedec938" />
+  <img width="770" src="https://github.com/user-attachments/assets/bb322f35-ba64-494b-9437-c898cedec938" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=900&color=F2B8C6&center=true&vCenter=true&width=720&height=48&lines=Theo+Trosman;Full-Stack+Developer+Student;Code+with+personality." alt="Theo Trosman" />
