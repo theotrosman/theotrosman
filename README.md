@@ -105,10 +105,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-7D2E50?style=for-the-badge&logo=linkedin&logoColor=F2B8C6&labelColor=7D2E50" />
   </a>
 </p>
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F2B8C6,30:C4728A,60:7D2E50,100:2D0A1A&height=100&section=footer" width="100%" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theotrosman&label=PROFILE+VIEWS&color=7D2E50&style=for-the-badge" alt="Profile views" />
-</p>
