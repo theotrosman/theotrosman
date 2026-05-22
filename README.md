@@ -16,9 +16,9 @@
 ---
 
 <p align="center">
-  <sub>
-    “A system is only as quiet as its darkest layer.”
-  </sub>
+ <sub>
+  “Every system reveals its truth in its lowest layer.”
+</sub>
 </p>
 
 ---
