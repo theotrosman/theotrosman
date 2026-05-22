@@ -1,5 +1,5 @@
 <p align="center">
-<img width="750" height="250" alt="b8d03ea95ac5efb270ffafe006085521" src="https://github.com/user-attachments/assets/faa41e1a-62df-4047-89af-60037267818c" />
+<img width="750" height="300" alt="b8d03ea95ac5efb270ffafe006085521" src="https://github.com/user-attachments/assets/faa41e1a-62df-4047-89af-60037267818c" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=F2B8C6&center=true&vCenter=true&width=600&height=40&lines=Theo+Trosman;Full-Stack+Developer+Student;Code+with+personality." />
