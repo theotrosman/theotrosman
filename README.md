@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=2200&pause=900&color=EDEDED&center=true&vCenter=true&width=700&height=40&lines=THEO+TROSMAN;ARKHRAM+NODE+ACTIVE;FULL-STACK+DEVELOPER;SYSTEM+ONLINE" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=2200&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=THEO+TROSMAN;ARKHRAM+NODE+ACTIVE;FULL-STACK+DEVELOPER;SYSTEM+ONLINE">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=28&duration=2200&pause=900&color=000000&center=true&vCenter=true&width=700&height=40&lines=THEO+TROSMAN;ARKHRAM+NODE+ACTIVE;FULL-STACK+DEVELOPER;SYSTEM+ONLINE">
+  </picture>
 </p>
 
 <p align="center">
